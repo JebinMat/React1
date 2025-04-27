@@ -1,0 +1,6 @@
+myenv/
+frontend/my-app/node_modules/
+*.pyc
+__pycache__/
+db.sqlite3
+.env
